@@ -3,8 +3,7 @@
 ///Jangan pernah sekali-sekali jika gak mau error pas php bot.php
 ///Ganti xxxxxxx dengan punya kalian
 ///Capture dulu apk nya ambil yang di butuhkan
-$ticket = 
-"xxxxxxxxx";
-$meid = "xxxxx";
-$os="android";
-$sign="xxxxx";
+$ticket = "xxxxxxxxxxxxxxxxxx";
+$meid = "xxxxxxxxxxxxxxxxxx";
+$os="xxxxxxxxxxxxxxxxxx";
+$sign="xxxxxxxxxxxxxxxxxx";
